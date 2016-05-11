@@ -10,10 +10,9 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.1630824
 color:
   saturation: 0.8334285
-  brandStrength: 0
+  brandStrength: 0.311828
   lightness: 0.5718623
   brandColors:
     - '#21201C'
@@ -22,5 +21,6 @@ color:
     - '#F3EDCB'
     - '#FE8F61'
   rhythmicContrast: 0
+typography_spectrum: 0.1630824
 layout_spectrum: 0.2401434
 name: limbico
