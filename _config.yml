@@ -1,3 +1,7 @@
+name: limbico
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.1630824
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Site Title
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 1
-  lightness: 0.5232975
   brandColors:
     - '#21201C'
     - '#808A94'
     - '#B2BCC5'
     - '#F3EDCB'
     - '#FE8F61'
+  brandStrength: 1
+  lightness: 0.5232975
+  saturation: 0
   rhythmicContrast: 1
-typography_spectrum: 0.1630824
-layout_spectrum: 0
-name: limbico
+purpose: []
