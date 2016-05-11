@@ -1,0 +1,14 @@
+layout_spectrum: 0.002163535
+typography_spectrum: 0.6171554
+color:
+  saturation: 0.8334285
+  lightness: 0.5718623
+  brandStrength: 0.7755581
+  rhythmicContrast: 0.7841236
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: limbico
