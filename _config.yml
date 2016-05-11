@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.1630824
 color:
   saturation: 0.8334285
-  brandStrength: 0.5734767
-  lightness: 0.3100359
+  brandStrength: 1
+  lightness: 0.5232975
   brandColors:
     - '#21201C'
     - '#808A94'
     - '#B2BCC5'
     - '#F3EDCB'
     - '#FE8F61'
-  rhythmicContrast: 0
-layout_spectrum: 0.2401434
+  rhythmicContrast: 1
+typography_spectrum: 0.1630824
+layout_spectrum: 1
 name: limbico
