@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[limbico]]></title>
-        <description><![CDATA[limbico]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Site Title]]></title>
+        <description><![CDATA[Site Title]]></description>
+        <link>https://thegrid.ai/limbico/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 05:20:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 01 Jun 2016 05:54:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/limbico/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Microsoft Is Teaching Your Plants To Talk Back]]></title>
+            <description><![CDATA[<article><h1>Microsoft Is Teaching Your Plants To Talk Back</h1><p>Gardeners have long claimed that talking to plants helps them grow-an idea backed up by science. But more recently, we're discovering that plants talk, too, reacting to their environment in a language of electrical impulses and chemicals. The question is whether there's a way that we-humans and plants-could talk to one another?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fba67ece5adda4dae4cc22fe70fb72f4b2e172d6.jpg"></article>]]></description>
+            <link>http://www.fastcodesign.com/3060347/microsoft-is-teaching-your-plants-to-talk-back?utm_content=bufferf6bc5&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">395e6ff0-077e-4915-bf28-1bc4b26f0055</guid>
+            <pubDate>Wed, 01 Jun 2016 05:54:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Eye-Catching Mural of Audrey Hepburn in NYC's Little Italy]]></title>
             <description><![CDATA[<article><h1>Eye-Catching Mural of Audrey Hepburn in NYC's Little Italy</h1><p>Brooklyn-based Tristan Eaton recently created this eye-catching mural, entitled Audrey Hepburn, along the streets of Little Italy in New York City. The American artist and toymaker was just one of the many talented people to participate in the L.I.S.A.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1409ac0014b19910539700d5c1dec12e25dfd6bb.jpg"></article>]]></description>
